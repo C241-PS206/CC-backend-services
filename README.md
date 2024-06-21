@@ -19,6 +19,6 @@ Hi folks👋 This repo contains our RESTful Backend API services that runs on No
 
 ✅Cloud SQL to store our database
 
-✅Cloud Storage for image data
+✅Cloud Storage for store our .env
 
 ✅Cloud Build for integrating our backend from github to GCP services
