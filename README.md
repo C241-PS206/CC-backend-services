@@ -1,26 +1,12 @@
-Cloud Computing Repositories🥷
+Cloud Computing Repositories 🥷
+👋 Welcome to our Cloud Computing Repositories! This repo contains our RESTful Backend API services built with Node.js.
 
-Hi folks👋 This repo contains our RESTful Backend API services that runs on Node.js
-
-
-
-Library used🧩
-
-✅ExpressJS - used as backend framework for our api to run.
-
-✅JWT (JSON Web Token) - used for token authentication in each http request.
-
-✅MySQL - used for connection with our database services.
-
-
-
-
-GCP services used ☁
-
-✅Cloud Run for running containers
-
-✅Cloud SQL to store our database
-
-✅Cloud Storage for image data
-
-✅Cloud Build for integrating our backend from github to GCP services
+Libraries Used 🧩
+ExpressJS - Utilized as the backend framework for our API.
+JWT (JSON Web Token) - Used for token authentication in each HTTP request.
+MySQL - Employed for connecting with our database services.
+GCP Services Used ☁
+Cloud Run - For running containers.
+Cloud SQL - For storing our database.
+Cloud Storage - For handling image data.
+Cloud Build - For integrating our backend from GitHub to GCP services.
