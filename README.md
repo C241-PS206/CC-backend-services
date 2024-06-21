@@ -1,9 +1,9 @@
-#Cloud Computing Repositories🥷
+# Cloud Computing Repositories🥷
 
 Hi folks👋 This repo contains our RESTful Backend API services that runs on Node.js
 
 
-Library used🧩
+# Library used🧩
 
 ✅ExpressJS - used as backend framework for our api to run.
 
@@ -13,7 +13,7 @@ Library used🧩
 
 
 
-GCP services used ☁
+# GCP services used ☁
 
 ✅Cloud Run for running containers
 
